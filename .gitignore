@@ -1,0 +1,26 @@
+# Virtual Environment
+.venv/
+
+# VSCode Configuration
+.vscode/
+
+# Data
+data/
+
+# Logs
+logs/
+*.log
+
+# Python Cache
+*.pyc
+__pycache__/
+
+# Experiment Results
+experiments/
+
+# Ignore document files
+*.docx
+*.pdf
+
+# Ignore temporary files
+*.tmp
